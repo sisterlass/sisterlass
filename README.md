@@ -5,6 +5,5 @@
 - 📫 How to reach me: lawalmariam999@gmail.com
 
 <!---
-sisterlass/sisterlass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I am looking forward to networking with experts who can guide me through the learning process.
 --->
